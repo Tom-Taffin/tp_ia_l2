@@ -2,6 +2,7 @@ import numpy as np
 
 
 class Board:
+    """ Jeu avec IA et élagage"""
     def __init__(self):
         self.board = np.zeros(9, dtype=int)
         self.render = self.board.reshape((3,3))

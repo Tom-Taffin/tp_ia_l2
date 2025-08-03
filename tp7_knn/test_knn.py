@@ -1,4 +1,4 @@
-from  knn import *
+from  knn_empty import *
 
 
 d = Dataset()

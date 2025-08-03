@@ -1,4 +1,4 @@
-from numpy import infty
+from numpy import inf as infty
 
 Content = int | float
 
